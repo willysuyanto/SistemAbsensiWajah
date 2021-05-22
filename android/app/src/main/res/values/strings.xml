@@ -1,0 +1,13 @@
+<resources>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">Sistem Absensi Wajah</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login">Masuk</string>
+    <string name="password">Kata Sandi</string>
+    <string name="email">Email</string>
+    <string name="top_icon">haha</string>
+    <string name="login_text">Login</string>
+    <string name="powered_by">Powered by</string>
+    <string name="register_txt">Registrasi</string>
+    <string name="recog_txt">Text</string>
+</resources>
