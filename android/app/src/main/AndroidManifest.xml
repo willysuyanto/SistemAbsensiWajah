@@ -20,7 +20,8 @@
         android:roundIcon="@mipmap/ic_launcher_facerec_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.ObjectDetection">
-        <activity android:name=".AddAttendantActivity"></activity>
+        <activity android:name=".SettingActivity"></activity>
+        <activity android:name=".AddAttendantActivity" />
         <activity android:name=".AdminMenuActivity" />
         <activity android:name=".MainMenuActivity">
             <intent-filter>
@@ -34,7 +35,7 @@
         <activity android:name=".AttendaceActivity" />
         <activity
             android:name=".DetectorActivity"
-            android:screenOrientation="portrait"></activity>
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>
